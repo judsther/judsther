@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋  soy Judith, desarrolladora Fullstack en formación✨ </h1> 
+<h1 align="center">Hola 👋  I'm Judith, Fullstack developer in process!✨ </h1> 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-👓 Diseñadora y Community Manager Freelance
+👓 Freelance designer and Community and Social Media Manager 
 
-💻 Actualmente formándome en Kodigo como Full Stack Jr
+💻 Currently learning new skills at Kodigo Academy.
 
 
-📫 Contacto: **j.arevaloguardado@gmail.com**
+📫 Contact: **j.arevaloguardado@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Technical Skills👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
